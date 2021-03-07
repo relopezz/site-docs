@@ -1,6 +1,6 @@
 ---
 title: API Design
-date: 
-slug: ''
+date: 2021-03-03
+slug: designg
 
 ---
